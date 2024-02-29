@@ -1,0 +1,23 @@
+{
+    "user": {
+        "id": 123,
+        "username": "ekaterina17",
+        "firstName": "Ekaterina",
+        "lastName": "Kotova",
+        "email": "kotovaekaterina10@gmail.com",
+        "password": "123",
+        "phone": "+79123456789",
+        "userStatus": 1
+    },
+  
+    "userUpdate": {
+        "id": 1234,
+        "username": "ekaterina17",
+        "firstName": "Ekaterina",
+        "lastName": "Voroshilova",
+        "email": "kotovaekaterina10@gmail.com",
+        "password": "123",
+        "phone": "+79123456789",
+        "userStatus": 3
+    }
+  }
